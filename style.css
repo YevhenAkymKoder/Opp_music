@@ -272,7 +272,6 @@ color: #FFFFFF;
     font-style: italic;
     color: #ffffff;    
     font-size: 20px;
-    font-weight: ;
     padding-left: 20px;
 
 }
@@ -282,11 +281,9 @@ color: #FFFFFF;
 .titlep {
    /* Your best choice! */
 
-position:absolute;
-width: ;
-height: ;
-margin-top: 100px;
-padding: 25px;
+ position:absolute;
+ margin-top: 100px;
+ padding: 25px;
 
 
 font-family: 'Kolker Brush';
