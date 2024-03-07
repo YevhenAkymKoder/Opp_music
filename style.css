@@ -163,12 +163,18 @@ color: #FFFFFF;
     display: flex;
 	justify-content: center;
 	align-items: center;
-    height:;
     width: 33%;
     padding: 15px;
-    z-index:;
     background: none;
- 
+}
+.section2 img:hover {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    width: 34%;
+    padding: 15px;
+    background: none;
+    opacity: 0.5;
 }
 .plast1 {
     background: url() no-repeat;
