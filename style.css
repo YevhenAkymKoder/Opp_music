@@ -276,8 +276,6 @@ color: #FFFFFF;
 
 }
 
-
-
 .titlep {
    /* Your best choice! */
 
@@ -297,18 +295,14 @@ text-align: center;
 color: #FFC700;
 background: #111111;
 opacity: 0.75;
-background-attachment: fixed;
-
-
+background-attachment: fixed;   
 }
-
 
 footer {
     width: 100%;
     background-color: #ffffff;
     color: #111111;
     font-size: 12px;
-    padding: 10px;
     text-align: center; 
 }
 .footer_wrapper {
